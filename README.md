@@ -8,7 +8,10 @@ This Text editor is quite simple, you only need to type whatever code you need i
 When you click the install button, you will be prompted to install the program, which will put it on your computer to be used either quickly, or offline!  
 
 To start, follow this link to the deployed app!  
+https://young-thicket-27019-92a0f21ddde4.herokuapp.com/  
 
+## Example  
+![chrome_vRLIdtktiT](https://github.com/Satalae/Text-Editor-C19/assets/122944701/c7237e7d-44ba-42a6-94ff-e2da14f9123a)  
 
 ## Author  
 
